@@ -1,3 +1,13 @@
+/*
+
+    Code that generates code.
+
+    By David Shoon 2023-02-11 (From my icebox repository).
+
+
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
